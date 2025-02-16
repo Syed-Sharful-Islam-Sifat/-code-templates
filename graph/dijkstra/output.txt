@@ -1,0 +1,6 @@
+node: 0 cost from source: 0
+node: 1 cost from source: -3
+node: 5 cost from source: -3
+node: 2 cost from source: -3
+node: 2 cost from source: -4
+0 3 3 2147483647 2147483647 3 
